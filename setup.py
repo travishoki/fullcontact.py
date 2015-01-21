@@ -14,7 +14,7 @@ setup(
     url='https://github.com/garbados/fullcontact.py',
     license='MIT',
     author=['Max Thayer','Amer Almadani'],
-    author_email=['garbados@gmail.com', 'mad_dev@linuxmail.org']
+    author_email=['garbados@gmail.com', 'mad_dev@linuxmail.org'],
     description='Simple Python interface for FullContact, using Requests',
     long_description=file.read(open('README.md', 'r')),
     packages=['fullcontact'],
